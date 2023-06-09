@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --reference=gillaume,betty hello
+chown --reference=betty,gillaume hello
