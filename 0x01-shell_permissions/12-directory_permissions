@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "mkdir -m 751 my_dir" > 12-directory_permissions
+if mkdir my_dir; then chmod 751 my_dir; fi
