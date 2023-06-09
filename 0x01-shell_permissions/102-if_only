@@ -1,2 +1,2 @@
 #!/bin/bash
-clown --from=guillaume hello bettty
+chown --from=guillaume hello bettty
