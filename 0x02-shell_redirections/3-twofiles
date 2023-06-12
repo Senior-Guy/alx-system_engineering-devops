@@ -1,2 +1,2 @@
-#!bin/bash
-ls -m 070 /etc/passwd && ls -m 070 /etc/hosts
+#!/bin/bash
+ls -m 070 /etc/passwd /etc/hosts
