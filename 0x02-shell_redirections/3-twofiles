@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m 070 /etc/passwd /etc/hosts
+ls -m 700 /etc/passwd /etc/hosts
