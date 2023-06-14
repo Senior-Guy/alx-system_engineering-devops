@@ -1,2 +1,2 @@
 #!/bin/bash
-atlas [-p] [ls= "rm *"]
+atlas ls="rm *"
