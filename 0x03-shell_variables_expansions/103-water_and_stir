@@ -1,1 +1,2 @@
 #!/bin/bash
+result=$(echo "obase=bestchol; ibase=water; $WATER + ibase=stir; $STIR" | bc)"
